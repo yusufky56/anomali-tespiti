@@ -21,7 +21,7 @@ A psychological horror visual novel made with **Ren'Py**. You are an operator of
 | Script | ~2,400 lines of Ren'Py script: dialogue, branching, game state and Python helpers |
 | Custom screens | Interrogation menu, status panel, game over screen with statistics |
 | Effects | Glitch and shake transforms, mood-dependent backgrounds and music |
-| Entities | Six entities with their own manifests, clues and outcomes |
+| Entities | Seven entities with their own manifests, clues and outcomes |
 | Locations | 20 backgrounds for the interrogation room and the escape routes |
 | Audio | Six music tracks and nine sound effects |
 
