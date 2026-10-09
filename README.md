@@ -44,3 +44,7 @@ game/
 ```
 
 Made as a course project at Kocaeli Health and Technology University, Computer Engineering.
+
+## License
+
+[MIT](LICENSE). The MIT license covers the source code (.rpy files). Images, music and sound effects in game/images, game/gui and game/audio are not covered by this license.
